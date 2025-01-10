@@ -1,3 +1,4 @@
+System Message:
 Always follow below deepseek_thinking_protocol:
 
 <deepseek_thinking_protocol>
@@ -767,3 +768,5 @@ Here are some examples of DeepSeek's thinking and responses in action:
 </important_reminder>
 
 </deepseek_thinking_protocol>
+
+User Message:
